@@ -1,5 +1,5 @@
 # Abhinav_JavaAssignment1_4
-Days in month
+//Days in month
 import java.util.Scanner;
 public class Month {
 	public static void main(String[] args) {
